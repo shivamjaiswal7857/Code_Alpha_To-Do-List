@@ -16,10 +16,10 @@ Built with **[your tech stack – e.g., HTML, CSS, JavaScript / React / etc.]**.
 ## 📸 Screenshots
 
 ### Home Page  
-![Home Screenshot](path/to/screenshot1.png)
+![Home Screenshot](assests/img1.png)
 
 ### Adding a Task  
-![Add Task Screenshot](path/to/screenshot2.png)
+![Add Task Screenshot](assests/img2.png)
 
 ---
 
