@@ -6,10 +6,10 @@ Built with **[your tech stack – e.g., HTML, CSS, JavaScript / React / etc.]**.
 ---
 
 ## 🚀 Features
-- Add, edit, and delete tasks  
-- Mark tasks as completed  
-- Responsive design for all devices  
-- Stores tasks locally (optional: LocalStorage/Database)  
+- Add, edit, and delete tasks. 
+- Mark tasks as completed.
+- Responsive design for all devices.  
+- Stores tasks locally (optional: LocalStorage/Database).  
 
 ---
 
