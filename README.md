@@ -36,11 +36,11 @@ Built with **[your tech stack – e.g., HTML, CSS, JavaScript / React / etc.]**.
 
 ## 💡 Ussage
 
-- Type your task in the input box
+- Type your task in the input box.
 
-- Click Add to save the task
+- Click Add to save the task.
 
-- Check it off when done ✅
+- Check it off when done ✅.
 
 ## 🤝 Contributing
 
